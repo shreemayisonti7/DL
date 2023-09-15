@@ -1,6 +1,5 @@
 import torch
 
-
 class MLP:
     def __init__(
         self,
@@ -91,6 +90,13 @@ def bce_loss(y, y_hat):
     pass
 
     # return loss, dJdy_hat
+
+
+
+
+
+
+
 
 
 
